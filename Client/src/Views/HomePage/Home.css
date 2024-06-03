@@ -1,0 +1,20 @@
+#side-bar-col {
+    background-color: #28231C;
+    color: white;
+}
+@media (min-width: 951px) {
+    #side-bar-row {
+      position: fixed;
+    }
+  }
+/* #main-content {
+    background-color: FFFFFF;
+    color: black;
+    margin-left:300px;
+}
+#carousel-row{
+    margin: 10px;
+}
+#item-list{
+    margin:30px
+} */
